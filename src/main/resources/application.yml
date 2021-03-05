@@ -1,0 +1,8 @@
+server:
+  port: 8080 # this is technically the default port, so it's not really needed
+
+spring:
+  application:
+    name: auth-service
+
+secret-key: test
