@@ -1,5 +1,5 @@
 server:
-  port: 8080 # this is technically the default port, so it's not really needed
+  port: 5000
 
 spring:
   application:
